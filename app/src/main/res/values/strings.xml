@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Student Library Registration</string>
+    <string name="welcome_sample">Welcome</string>
+    <string name="gender_prompt">Gender</string>
+    <string name="addressText">Address</string>
+    <string name="phone_numberText">Phone Number</string>
+    <string name="emailText">Email</string>
+    <string name="matric_numberText">Matric Number</string>
+    <string name="other_nameText">Other Name</string>
+    <string name="last_nameText">Last Name</string>
+    <string name="first_nameText">First Name</string>
+    <string name="registrationTextView">Registration</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
